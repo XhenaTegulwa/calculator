@@ -1,0 +1,16 @@
+*{
+    background-color: white;
+}
+ .container {
+    margin: 20px auto;
+    border: 1px solid black;
+    /* width: 50%
+    position: relative;
+    padding: 5%;  */
+  
+ }
+
+ h3 {
+    border-bottom: 1px solid black;
+    text-align: center;
+ }
